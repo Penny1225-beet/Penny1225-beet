@@ -1,2 +1,2 @@
-# -Penny1225-beet
+# Penny1225-beet
 个人数据分析与可视化作品集
