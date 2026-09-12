@@ -1,6 +1,14 @@
 # Penny1225-beet
 # 数据分析 & 可视化作品集
 
+## 📈 基于RFM-I模型的电商用户价值分层分析
+🔗 [查看GitHub仓库](https://github.com/Penny1225-beet/ecommerce-user-segmentation)
+
+基于Kaggle公开数据集（1,000条用户消费与行为记录），设计并验证改良的
+RFM-I用户价值分层模型，在传统R/F/M基础上引入行为意向度(I-Score)指标，
+识别高价值/高潜力用户群体，为精准营销提供分层依据。
+
+
 ## 📊 Exploring Malaysian Domestic Tourism
 🔗 [查看Tableau交互式可视化](https://public.tableau.com/views/ExploringMalaysianDomesticTourism/1?:language=zh-CN&publish=yes)
 
@@ -15,8 +23,9 @@ COVID冲击与复苏、游客画像、消费行为及综合结论。
 
 
 
-### 🌳 Malaysia's Vanishing Wilderness
+## 🌳 Malaysia's Vanishing Wilderness
 🔗 [查看在线Demo](https://penny1225-beet.github.io/fit2179-dv2/) | [查看GitHub仓库](https://github.com/Penny1225-beet/fit2179-dv2)
 
 基于IUCN Red List与Global Forest Watch数据，对马来西亚境内2,512个
 已评估物种进行可视化分析，呈现物种濒危现状与森林流失趋势。
+
